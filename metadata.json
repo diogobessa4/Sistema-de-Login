@@ -1,0 +1,5 @@
+{
+  "name": "Sistema Avançado de Autenticação",
+  "description": "Um sistema de autenticação que demonstra o processamento seguro de formulários, gerenciamento simulado de sessões JWT, hash de senhas (Web Crypto API) e análise de segurança.",
+  "requestFramePermissions": []
+}
